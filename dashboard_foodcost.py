@@ -13,7 +13,7 @@ st.set_page_config(page_title="Фудкост — дэшборд", layout="wide"
 # 1) ВСТАВЬ СВОЮ ССЫЛКУ ЗДЕСЬ (Google Sheets → File → Publish to Web → CSV)
 # Пример: "https://docs.google.com/spreadsheets/d/e/2PACX-.../pub?gid=0&single=true&output=csv"
 # =========================
-GOOGLE_SHEET_URL = "PASTE_YOUR_GOOGLE_SHEET_CSV_LINK_HERE"
+GOOGLE_SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vT0eKDqy05ncTpiWM0oFxv-dthUJ53rPIMf5A-NFCBAJSrLEDRjHdpz2eNnmR192e5eZMD05Ua4bMD7/pub?output=csv"
 
 # =========================
 # Категории (расширенные)
